@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139329838043",
+    "project_id": "medication-hero",
+    "storage_bucket": "medication-hero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139329838043:android:147c1f01989af9988fa5fe",
+        "android_client_info": {
+          "package_name": "com.medicationhero.medicationhero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhv1lGc6jGjh6AJj3lQSFaCmp8wVDO56w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
